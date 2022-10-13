@@ -1,0 +1,1 @@
+Este repositorio contiene diferentes scripts para descarga de genomas de microrganismos de la base de datos ENA, anotar su perfil de enzimas CAZy y realizar un modelado matemático mediante algoritmos de aprendizaje automático. 
